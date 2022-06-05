@@ -1,9 +1,9 @@
 import { Component } from 'react';
 import { useParams } from 'react-router-dom';
 import Carousel from './Carousel';
-import ErrorBoundary from './ErrorBoundary';
-import Modal from './Modal';
-import ThemeContext from './ThemeContext';
+import ErrorBoundary from '../utils/ErrorBoundary';
+import Modal from '../utils/Modal';
+import ThemeContext from '../utils/ThemeContext';
 
 class Details extends Component {
   /* constructor(props) {

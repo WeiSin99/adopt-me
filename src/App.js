@@ -1,12 +1,12 @@
 import { render } from 'react-dom';
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import { StrictMode, useState } from 'react';
-import ThemeContext from './ThemeContext';
-import SearchParams from './SearchParams';
-import Details from './Details';
+import ThemeContext from './utils/ThemeContext';
+import SearchParams from './search/SearchParams';
+import Details from './details/Details';
 
-import './style.css';
-import './index.html';
+import '../css/style.css';
+import '../public/index.html';
 
 const App = () => {
   const theme = useState('darkblue');
