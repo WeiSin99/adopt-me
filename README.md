@@ -1,8 +1,8 @@
 # adopt-me
 
+![Project Screenshot](./src/assets/project-screenshot.png)
 A pet adoption web application. <br>
-This project was done as part of the [Frontend Masters Course: Complete Intro to React](https://frontendmasters.com/courses/complete-react-v6/). <br>
-<img src="./src/assets/project-screenshot.png" alt="Project Screenshot" style="margin-top: 100px;"/>
+This project was done as part of the [Frontend Masters Course: Complete Intro to React](https://frontendmasters.com/courses/complete-react-v6/).
 
 ## System dependencies
 
