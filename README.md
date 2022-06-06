@@ -12,7 +12,7 @@ This project was done as part of the Frontend Masters Course: [Complete Intro to
 - CSS
 - Webpack
 
-## System dependencies
+## System Dependencies
 
 - Git
 - NodeJS
