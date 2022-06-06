@@ -4,6 +4,14 @@
 A pet adoption web application. <br>
 This project was done as part of the Frontend Masters Course: [Complete Intro to React](https://frontendmasters.com/courses/complete-react-v7/).
 
+## Tech Stack
+
+- ReactJS
+- JavaScript
+- HTML
+- CSS
+- Webpack
+
 ## System dependencies
 
 - Git
